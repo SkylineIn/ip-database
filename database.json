@@ -10,5 +10,11 @@
     "Nama": "Kyllian",
     "Access": true,
     "Kode_verifikasi": "2040"
+  },
+  {
+    "IP": "192.210.175.9",
+    "Nama": "Arthur",
+    "Access": true,
+    "Kode_verifikasi": "2008"
   }
 ]
