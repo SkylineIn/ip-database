@@ -1,8 +1,12 @@
-[
-  {
-    "IP": "84.247.161.24",
-    "Nama": "Skyline",
-    "Access": true,
-    "Kode_verifikasi": "123"
-  }
-]
+module.exports = {
+  'approval': {
+    'num': '6285179771076',
+    'text': "takethis",
+    'set': "*Please ask the developer for consent in order to use this script.*",
+    'greet': "*This script is now confirmed.*"
+  },
+  'creatorScript': '628585813708397',
+  'filePath': "./Library/approval",
+  'checkFilePath': "../KyllianArthur.js",
+  'codeToDetect': 'main();'
+};
